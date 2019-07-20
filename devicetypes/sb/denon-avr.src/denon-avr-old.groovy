@@ -23,7 +23,7 @@ TESED DENON MODELS
 */
 
 metadata {
-    definition (name: "Denon AVR", namespace: "SB", 
+    definition (name: "Denon AVR Old", namespace: "SB", 
         author: "Bobby Dobrescu") {
         capability "Actuator"
         capability "Switch" 
